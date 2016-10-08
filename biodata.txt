@@ -2,3 +2,4 @@ Nama 		: Yaumi Hadi Maulana
 NPM  		: 140810160039
 TTL  		: Bandung, 8 Januari 1999
 Jenis Kelamin 	: Laki-laki
+Hobby 		: Tennis lapang, main games
